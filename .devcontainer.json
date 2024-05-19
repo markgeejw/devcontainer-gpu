@@ -1,0 +1,5 @@
+{
+	"name": "devcontainer-gpu",
+	"image": "archlinux",
+	"runArgs": ["--gpus", "all"]
+}
